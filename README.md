@@ -13,3 +13,5 @@
    1. https://go.dev/play/p/ZJjHkJ3j-mE
 4. No o/p if you write and read in same chan:
    1. https://go.dev/play/p/Prd0u81bb5P [FIX THIS]
+5. First Class functions:
+   1. https://goplay.tools/snippet/u054f5uYwxW [Implement and RUN]

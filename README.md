@@ -15,3 +15,7 @@
    1. https://go.dev/play/p/Prd0u81bb5P [FIX THIS]
 5. First Class functions:
    1. https://goplay.tools/snippet/u054f5uYwxW [Implement and RUN]
+
+### Context
+1. cancel
+   1. https://goplay.tools/snippet/iCqM6QB8Ckc

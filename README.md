@@ -19,3 +19,6 @@
 ### Context
 1. cancel
    1. https://goplay.tools/snippet/iCqM6QB8Ckc
+   2. better one: https://goplay.tools/snippet/pnmSlN-SfHu
+
+
